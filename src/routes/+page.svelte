@@ -1,4 +1,4 @@
 <h1>GLAPKO Studios</h1>
 <p>
-  Visit <a href="about">nic</a> to read the documentation :)
+  Visit <a href="{import.meta.env.BASE_URL}about">nic</a> to read the documentation :)
 </p>
