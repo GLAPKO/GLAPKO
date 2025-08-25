@@ -1,4 +1,11 @@
-<h1>GLAPKO Studios</h1>
+<h1 style="color:white;">GLAPKO Studios</h1>
 <p>
-  Visit <a href="{import.meta.env.BASE_URL}about">nic</a> to read the documentation :)
+  <span class="highlight">Visit <a href="{import.meta.env.BASE_URL}about">about</a> to read the documentation :)</span>
 </p>
+<p style="color:white;">Na tomhle bude ještě hodně práce :D</p>
+<style>
+  .highlight {
+    color: white;
+    background-color: #282828;
+  }
+</style>
